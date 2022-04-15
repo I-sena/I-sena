@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, i'm Izabela Sena 👋
+<div >
+  <p> ### Hi, i'm Izabela Sena 👋 </p>
+</div>
+---
 
-<!--
-**I-sena/I-sena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
++ 🔭 Fazendo o 4º periodo de Ciência da Computação na Universidade Federal do Tocantins-UFT.
++ 📚 Atualmente estudando Desenvolvimento Web e Python.
++ 😄 Ela/Dela - 20 anos
++ 🐱 cat lover
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/I-sena">
+  <img height="200px" width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=I-sena&count_private=true&show_icons=true&theme=dark" />
+</a>
+
+<a href="https://github.com/I-sena">
+  <img height="200px" width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-sena&layout=compact&theme=dark" />
+</a>
