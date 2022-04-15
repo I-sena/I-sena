@@ -1,7 +1,5 @@
 ### Hi, i'm Izabela Sena 👋
-<div >
-  <p> ### Hi, i'm Izabela Sena 👋 </p>
-</div>
+
 ---
 
 About me:
