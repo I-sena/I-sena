@@ -5,9 +5,9 @@
 ---
 
 About me:
-+ 🔭 Fazendo o 5º periodo de Ciência da Computação na Universidade Federal do Tocantins-UFT.
++ 🔭 Fazendo o 6º periodo de Ciência da Computação na Universidade Federal do Tocantins-UFT.
 + 📚 Atualmente estudando Desenvolvimento Web e Python.
-+ 😄 Ela/Dela - 20 anos
++ 😄 Ela/Dela - 21 anos
 + 🐱 cat lover
 
 ----
