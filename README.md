@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://github.com/I-sena"><img src="https://readme-typing-svg.demolab.com?      font=Fira+Code&size=25&pause=1002&color=f75c7e&width=435&lines=Hi%2C+i'm+Izabela+Sena+%F0%9F%91%8B;Welcome+to+my+profile!!+%F0%9F%98%8E&center=true&vCenter=true"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+i'm+izabela" alt="Typing SVG" /></a>
 </p>
 
 ---
 
 About me:
-+ 🔭 Fazendo o 6º periodo de Ciência da Computação na Universidade Federal do Tocantins-UFT.
-+ 📚 Atualmente estudando Desenvolvimento Web e Python.
-+ 😄 Ela/Dela - 21 anos
++ 🔭 Cursando Ciência da Computação na Universidade Federal do Tocantins-UFT.
++ 📚 Atualmente estudando Desenvolvimento Web e Mobile.
++ 😄 Ela/Dela - 23 anos
 + 🐱 cat lover
 
 ----
